@@ -1,2 +1,3 @@
 # apnacollage-demo
-This us my first git Repository.
+This is my first git Repository.
+Author - Sajjadul Iqbal Rony
